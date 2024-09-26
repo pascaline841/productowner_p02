@@ -13,7 +13,7 @@ En tant que Product Owner au sein de l'agence Omega, j'ai piloté le développem
 ## Compétences acquises et mises en œuvre
 
 1. **Gestion de projet Agile** :
-   - Création et gestion d'un Product Backlog sur Notion
+   - Création et gestion d'un Product Backlog sur [Notion](https://www.notion.so/P02-Hello-Hercule-ac550338ca3c4769bf87ed4ef421b922?pvs=4)
    - Rédaction de User Stories selon la méthode INVEST
    - Élaboration de critères d'acceptation en langage Gherkin
    - Animation d'ateliers de Planning Poker pour l'estimation des charges
