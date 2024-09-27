@@ -1,4 +1,4 @@
-# Développement d'un site e-commerce pour une chaîne de barbiers
+# Développement d'un site e-commerce
 
 En tant que Product Owner au sein de l'agence Omega, j'ai piloté le développement d'un site vitrine e-commerce pour Hello Hercule, une chaîne de barbiers en pleine expansion. Ce projet clé visait à renforcer la présence en ligne de la marque face à une concurrence accrue.
 
