@@ -2,7 +2,7 @@
 
 En tant que Product Owner au sein de l'agence Omega, j'ai piloté le développement d'un site vitrine e-commerce pour Hello Hercule, une chaîne de barbiers en pleine expansion. Ce projet clé visait à renforcer la présence en ligne de la marque face à une concurrence accrue.
 
-🎯 ## Problématiques et défis
+## 🎯  Problématiques et défis
 
 1. **Initiation du client à l'Agile** : Le client n'étant pas familier avec les méthodologies agiles, il a fallu les former et les rassurer sur cette approche.
 2. **Contraintes de temps et de budget** : Livraison d'un site fonctionnel en 4 mois (8 sprints) avec un budget limité à 50 000 €.
@@ -10,7 +10,7 @@ En tant que Product Owner au sein de l'agence Omega, j'ai piloté le développem
 4. **Gestion des attentes** : Aligner la vision du client avec les possibilités techniques et les ressources disponibles.
 5. **Assurance qualité** : Garantir que le produit final réponde aux exigences et aux standards de qualité attendus.
 
-🚀 ## Compétences acquises et mises en œuvre
+ ## 🚀 Compétences acquises et mises en œuvre
 
 1. **Gestion de projet Agile** :
    - Création et gestion d'un Product Backlog sur [Notion](https://www.notion.so/P02-Hello-Hercule-ac550338ca3c4769bf87ed4ef421b922?pvs=4)
